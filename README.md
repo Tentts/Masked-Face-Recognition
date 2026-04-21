@@ -1,7 +1,28 @@
-# TFG-MFR-CNNFE-ML
+# Masked Face Recognition
+
+## ⚠️ Disclaimer / Aviso
+
+**English**
+
+This repository contains the code developed for my undergraduate thesis, completed approximately five years ago during the COVID-19 pandemic. The project explores face recognition techniques adapted to masked faces.
+
+Please note that this code reflects my knowledge and development practices at that time. It may not follow current best practices, libraries, or standards, and it is not actively maintained. The repository is provided for educational, archival, and reference purposes only.
+
+Additionally, this project was developed in an academic context using limited datasets and simulated masks. It is not intended for production use or real-world deployment, particularly in sensitive applications involving biometric identification.
+
+---
+
+**Español**
+
+Este repositorio contiene el código desarrollado para mi Trabajo de Fin de Grado, realizado hace aproximadamente cinco años durante la pandemia de COVID-19. El proyecto explora técnicas de reconocimiento facial adaptadas a rostros con mascarilla.
+
+Debe tenerse en cuenta que este código refleja los conocimientos y prácticas de desarrollo de ese momento. Puede no seguir las mejores prácticas, librerías o estándares actuales, y no se encuentra mantenido activamente. Se proporciona únicamente con fines educativos, de referencia y archivo.
+
+Además, este proyecto fue desarrollado en un contexto académico utilizando datasets limitados y mascarillas simuladas. No está destinado a uso en producción ni a su despliegue en entornos reales, especialmente en aplicaciones sensibles relacionadas con la identificación biométrica.
+
+## README.md
 
 
-English
 # Masked Face Recognition using CNNs as feature extractor, PCA for dimensionality reduction and Machine Learning classifiers
 
 
@@ -35,9 +56,8 @@ Best perfomance models:
 
 This repository contains the entire project developed in Google Colaboratory notebooks.
 
+---
 
-
-Español
 # Reconocimiento facial con uso de mascarilla empleando CNNs como extractor de características, PCA para reducción de dimensionalidad y clasificadores Machine Learning
 
 
